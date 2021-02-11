@@ -1,4 +1,4 @@
-# BUGU-Sport(BUGUYUEQIU) 不咕约球微信小程序
+# BUGU-Sport(BUGUYUEQIU) Wechat Miniprogramme</br>不咕约球微信小程序
 
 [中文介绍](https://github.com/HeXavi8/BUGU-Sport/tree/main/中文介绍)
 
