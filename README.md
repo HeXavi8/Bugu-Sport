@@ -7,4 +7,4 @@
 
 [English Introduction](https://github.com/HeXavi8/BUGU-Sport/tree/main/English_introduction)
 
-<img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/intro2.jpg" width = "400"  div-align=left />&emsp; <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/intro1.jpg" width = "400"  />
+<img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/intro2.jpg" width = "400"  div-align=left />&ensp; <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/intro1.jpg" width = "400"  />
