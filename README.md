@@ -1,9 +1,5 @@
-# BUGU-Sport(BUGUYUEQIU)
-不咕约球微信小程序
+# BUGU-Sport(BUGUYUEQIU) 不咕约球微信小程序
 
+[中文介绍](https://github.com/HeXavi8/BUGU-Sport/tree/main/中文介绍)
 
-
-
-中文介绍
-
-English Introduction
+[English Introduction](https://github.com/HeXavi8/BUGU-Sport/tree/main/English_introduction)
