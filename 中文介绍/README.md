@@ -13,21 +13,21 @@
 
 ### 功能介绍
 主要功能：
-1. 约赛功能——发送邀请、协商比赛、跨校交流</br>
+#### 1. 约赛功能——发送邀请、协商比赛、跨校交流</br>
    同学们可以筛选运动类型、学校、校区，以个人身份或者队伍身份向想要进行比赛的同学发出约赛申请</br>
-   <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/invite.PNG" width = "360"/>
-2. 野球功能——查找场地、寻找球友、师生参与</br>
-   在这里同学们可以选择特定学校、校区的场地，选择特定的时间加入一场野球比赛。
-   <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/ground.PNG" width = "360"/>
-3. 队伍功能——查找队伍、加入队伍</br>
-   在这里同学们可以创建自己的队伍，并对自己的队伍进行管理。
-   <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/team.PNG" width = "360"/>
-4. 认证功能——赛事认证、队伍认证、个人认证</br>
-   在这里同学们可获得创建赛事的权限、获得创建队伍的权限、以及个人身份、管理员身份的认证。
-   <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/certification.PNG" width = "360"/>
-5. 赛事功能——查找赛事、加入赛事、发布资讯</br>
-   在这里同学们可以搜索加入到自己感兴趣的比赛中，作为比赛管理者，可以对参赛者进行管理、对比赛的详情、进程、数据进行上传。
-   <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/match.PNG" width = "360"/>
+   <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/invite.PNG" width = "200"/>
+#### 2. 野球功能——查找场地、寻找球友、师生参与</br>
+   在这里同学们可以选择特定学校、校区的场地，选择特定的时间加入一场野球比赛。</br>
+   <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/ground.PNG" width = "200"/>
+#### 3. 队伍功能——查找队伍、加入队伍</br>
+   在这里同学们可以创建自己的队伍，并对自己的队伍进行管理。</br>
+   <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/team.PNG" width = "200"/>
+#### 4. 认证功能——赛事认证、队伍认证、个人认证</br>
+   在这里同学们可获得创建赛事的权限、获得创建队伍的权限、以及个人身份、管理员身份的认证。</br>
+   <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/certification.PNG" width = "200"/>
+#### 5. 赛事功能——查找赛事、加入赛事、发布资讯</br>
+   在这里同学们可以搜索加入到自己感兴趣的比赛中，作为比赛管理者，可以对参赛者进行管理、对比赛的详情、进程、数据进行上传。</br>
+   <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/match.PNG" width = "200"/>
 
 ### 未来期望
 1. 希望可以和更多学校体育部门协会合作，打造一个氛围更好的校园体育社区。
