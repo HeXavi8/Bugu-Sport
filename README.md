@@ -4,5 +4,5 @@
 
 [English Introduction](https://github.com/HeXavi8/BUGU-Sport/tree/main/English_introduction)
 
-![avatar](https://github.com/HeXavi8/BUGU-Sport/QRcode.JPG)
+![avatar](https://github.com/HeXavi8/BUGU-Sport/blob/main/QRcode.JPG)
 
