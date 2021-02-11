@@ -28,7 +28,10 @@
 #### 5. 赛事功能——查找赛事、加入赛事、发布资讯</br>
    在这里同学们可以搜索加入到自己感兴趣的比赛中，作为比赛管理者，可以对参赛者进行管理、对比赛的详情、进程、数据进行上传。</br>
    <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/match.PNG" width = "200"/>
-
+   <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/match_main.PNG" width = "200"/>
+   <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/match_participant.PNG" width = "200"/>
+   <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/match_against.PNG" width = "200"/>
+   <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/match_data.PNG" width = "200"/>
 ### 未来期望
 1. 希望可以和更多学校体育部门协会合作，打造一个氛围更好的校园体育社区。
 2. 希望引入专业的资源，如教练员、裁判员，为同学们提供专业指导，建立球探体系，挖掘探索出更多具有潜力的球员。
