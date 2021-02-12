@@ -1,5 +1,15 @@
 ## 不咕约球微信小程序中文介绍
-[toc]
+  - [项目介绍](#项目介绍)
+  - [开发目的](#开发目的)
+  - [功能介绍](#功能介绍)
+    - [1. 约赛功能——发送邀请、协商比赛、跨校交流</br>](#1-约赛功能发送邀请协商比赛跨校交流br)
+    - [2. 野球功能——查找场地、寻找球友、师生参与</br>](#2-野球功能查找场地寻找球友师生参与br)
+    - [3. 队伍功能——查找队伍、加入队伍</br>](#3-队伍功能查找队伍加入队伍br)
+    - [4. 认证功能——赛事认证、队伍认证、个人认证</br>](#4-认证功能赛事认证队伍认证个人认证br)
+    - [5. 赛事功能——查找赛事、加入赛事、发布资讯</br>](#5-赛事功能查找赛事加入赛事发布资讯br)
+    - [6. 个人功能——私信、验证信息、个人主页</br>](#6-个人功能私信验证信息个人主页br)
+  - [未来期望](#未来期望)
+  - [开发者心得](#开发者心得)
 ### 项目介绍
 不咕约球是一款以校园体育为主题的微信小程序，用户群体主要集中于学生群体，包括高校学生和中小学学生等。
 <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/main.PNG" width = "360"/>
@@ -41,7 +51,7 @@
    <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/match_data.PNG" width = "200"/>
 
 #### 6. 个人功能——私信、验证信息、个人主页</br>
-在这里同学们可以处理自己收到的私信和验证约赛等信息，并展示自己的个人主页。
+在这里同学们可以处理自己收到的私信和验证约赛等信息，并展示自己的个人主页。</br>
 <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/my.PNG" width = "200"/>&emsp;
 <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/my_main.PNG" width = "200"/>&emsp;
 <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/message1.PNG" width = "200"/>&emsp;
