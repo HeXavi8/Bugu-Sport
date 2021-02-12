@@ -25,8 +25,13 @@
 
 ### 功能介绍
 #### 1. 约赛功能——发送邀请、协商比赛、跨校交流</br>
+<<<<<<< Updated upstream
    同学们可以选择自己感兴趣的运动类型、所在的学校、校区，筛选出和自己有相同体育爱好的同学朋友。</br>
     并且可以以个人身份或者队伍身份向想要进行比赛的同学发出约赛申请</br>
+=======
+同学们可以选择自己感兴趣的运动类型、所在的学校、校区，筛选出和自己有相同体育爱好的同学朋友。
+     并且可以以个人身份或者队伍身份向想要进行比赛的同学发出约赛申请
+>>>>>>> Stashed changes
    <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/invite1.PNG" width = "200"/>&emsp;
    <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/invite2.PNG" width = "200"/>
 
