@@ -39,7 +39,7 @@
 #### 队伍功能——查找队伍、加入队伍</br>
     1. 在这里同学们可以创建自己的队伍，并对自己的队伍进行管理。
     2. 也可以搜索自己感兴趣的运动类型的队伍并申请加入
-   <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/team.PNG" width = "200"/>
+   <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/team.PNG" width = "200"/>&emsp;
    <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/team_detail.PNG" width = "200"/>
 
 #### 认证功能——赛事认证、队伍认证、个人认证</br>
