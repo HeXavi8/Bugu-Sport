@@ -11,10 +11,10 @@ Page({
 
     star: ["img/star_gray.png", "img/star_yellow.png"],    
 
-    total_grade: 0,
-    a_grade: 0,
-    b_grade: 0,
-    c_grade: 0,
+    total_grade: 0,      //总分
+    a_grade: 0,          //评分项a
+    b_grade: 0,          //评分项b
+    c_grade: 0,          //评分项c
 
     saishi_name: "",
     saishi_place: "",
