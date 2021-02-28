@@ -1,3 +1,2 @@
-*.json linguist-language=javascript
-*.wxml linguist-language=javascript
-*.wxss linguist-language=javascript
+*.js linguist-language=javascript
+
