@@ -4,10 +4,10 @@ Page({
    * 页面的初始数据
    */
   data: {
-    totalGradeStar: [0, 0, 0, 0, 0],
-    aGradeStar: [0, 0, 0, 0, 0],
-    bGradeStar: [0, 0, 0, 0, 0],
-    cGradeStar: [0, 0, 0, 0, 0],
+    totalGradeStar: [0, 0, 0, 0, 0],     //总分
+    aGradeStar: [0, 0, 0, 0, 0],         //评分项a
+    bGradeStar: [0, 0, 0, 0, 0],         //评分项b
+    cGradeStar: [0, 0, 0, 0, 0],         //评分项c
 
     star: ["img/starGray.png", "img/starYellow.png"],    
 
@@ -232,5 +232,4 @@ Page({
       iTime: setTimeout(that.confirm, 1000)
     })
   },
-})})
 })
