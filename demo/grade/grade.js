@@ -232,4 +232,4 @@ Page({
       iTime: setTimeout(that.confirm, 1000)
     })
   },
-})
+})})
