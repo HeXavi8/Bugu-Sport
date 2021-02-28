@@ -1,2 +1,2 @@
-*.js linguist-language=javascript
-
+*.wxml linguist-language=html
+*.wxss linguist-language=css
