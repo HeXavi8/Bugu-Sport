@@ -1,0 +1,169 @@
+page {
+  background-color: rgb(245, 245, 245);
+  color: #404040;
+}
+
+.main {
+  margin-top: 25rpx;
+  margin-left: 4%;
+  width: 92%;
+  background-color: white;
+  border-radius: 20rpx;
+  box-shadow: 2rpx 10rpx 25rpx #e9e9e9;
+}
+
+.saishi_info {
+  padding-top: 15rpx;
+  margin-left: 5%;
+  width: 90%;
+  height: 160rpx;
+  display: flex;
+}
+
+.saishi_picture {
+  width: 180rpx;
+  height: 180rpx;
+  margin-top: 5rpx;
+}
+
+.saishi_picture image {
+  width: 180rpx;
+  height: 170rpx;
+}
+
+.saishi_content {
+  margin-left: 15rpx;
+  width: 430rpx;
+  height: 180rpx;
+}
+
+.saishi_name {
+  color: #909090;
+  height: 110rpx;
+  font-size: 30rpx;
+  font-weight: bolder;
+}
+
+.saishi_place {
+  color: #909090;
+  font-size: 28rpx;
+}
+
+.saishi_time {
+  color: #909090;
+  font-size: 28rpx;
+}
+
+.grade_title {
+  margin-left: 5%;
+  width: 90%;
+  display: flex;
+  margin-top: 60rpx;
+}
+
+.grade_title image {
+  margin-top: 8rpx;
+  margin-left: 4rpx;
+  width: 32rpx;
+  height: 32rpx;
+}
+
+.grade_title text {
+  margin-left: 15rpx;
+  font-size: 32rpx;
+  font-weight: bolder;
+}
+
+.grade {
+  margin-left: 5%;
+  width: 90%;
+  margin-top: 3rpx;
+  padding-bottom: 15rpx;
+}
+
+.total {
+  height: 60rpx;
+  display: flex;
+  margin-top: 20rpx;
+}
+
+.total text {
+  margin-top: 12rpx;
+  font-size: 30rpx;
+  margin-right: 5rpx;
+}
+
+.a {
+  height: 60rpx;
+  display: flex;
+  margin-top: 20rpx;
+}
+
+.a text {
+  margin-top: 12rpx;
+  font-size: 30rpx;
+  margin-right: 5rpx;
+}
+
+.b {
+  height: 60rpx;
+  display: flex;
+  margin-top: 20rpx;
+}
+
+.b text {
+  margin-top: 12rpx;
+  font-size: 30rpx;
+  margin-right: 5rpx;
+}
+
+.c {
+  height: 60rpx;
+  display: flex;
+  margin-top: 20rpx;
+}
+
+.c text {
+  margin-top: 12rpx;
+  font-size: 30rpx;
+  margin-right: 5rpx;
+}
+
+.star {
+  margin-left: 15rpx;
+  width: 60rpx;
+  height: 60rpx;
+}
+
+.star image {
+  width: 60rpx;
+  height: 60rpx;
+}
+
+.button {
+  margin-top: 30rpx;
+  display: flex;
+  float: right;
+  margin-right: 50rpx;
+}
+
+.reset {
+  width: 136.5rpx;
+  height: 75rpx;
+  margin-right: 5rpx;
+}
+
+.reset image {
+  width: 136.5rpx;
+  height: 75rpx;
+}
+
+.confirm {
+  width: 136.5rpx;
+  height: 75rpx;
+}
+
+.confirm image {
+  width: 136.5rpx;
+  height: 75rpx;
+}

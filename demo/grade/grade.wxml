@@ -1,0 +1,50 @@
+<view class="main">
+  <view class="saishi_info">
+    <view class="saishi_picture">
+      <image src="{{saishi_picture}}"></image>
+    </view>
+    <view class="saishi_content">
+      <view class="saishi_name">{{saishi_name}}</view>
+      <view class="saishi_place">{{saishi_place}}</view>
+      <view class="saishi_time">{{saishi_time}}</view>
+    </view>
+  </view>
+  <view class="grade_title">
+    <image src="img/pen.png"></image>
+    <text>给赛事评分</text>
+  </view>
+  <view class="grade">
+    <view class="total">
+      <text>总体评价：</text>
+      <view class="star" wx:for="{{total_grade_star}}" wx:key="index" data-index="{{index}}" data-type="0" bindtap="grade">
+        <image src="{{star[total_grade_star[index]]}}"></image>
+      </view>
+    </view>
+    <view class="a">
+      <text>评分项a：</text>
+      <view class="star" wx:for="{{a_grade_star}}" wx:key="index" data-index="{{index}}" data-type="1" bindtap="grade">
+        <image src="{{star[a_grade_star[index]]}}"></image>
+      </view>
+    </view>
+    <view class="b">
+      <text>评分项b：</text>
+      <view class="star" wx:for="{{b_grade_star}}" wx:key="index" data-index="{{index}}" data-type="2" bindtap="grade">
+        <image src="{{star[b_grade_star[index]]}}"></image>
+      </view>
+    </view>
+    <view class="c">
+      <text>评分项c：</text>
+      <view class="star" wx:for="{{c_grade_star}}" wx:key="index" data-index="{{index}}" data-type="3" bindtap="grade">
+        <image src="{{star[c_grade_star[index]]}}"></image>
+      </view>
+    </view>
+  </view>
+</view>
+<view class="button">
+  <view class="reset" bindtap="reset">
+    <image src="img/reset.png"></image>
+  </view>
+  <view class="confirm" bindtap="fn">
+    <image src="img/confirm.png"></image>
+  </view>
+</view>
