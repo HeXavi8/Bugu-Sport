@@ -36,12 +36,12 @@ page {
   display: flex;
 }
 
-.chat-news .my_right {
+.chat-news .myRight {
   float: right;
   padding: 10rpx 10rpx;
 }
 
-.you_left .new_txt {
+.youLeft .newTxt {
   margin-top: 15rpx;
   max-width: 300rpx;
   margin-left: 10rpx;
@@ -56,11 +56,11 @@ page {
   margin-left: 50rpx;
 }
 
-.my_right .selectImg {
+.myRight .selectImg {
   margin-right: 80rpx;
 }
 
-.new_img {
+.newImg {
   width: 60rpx;
   height: 60rpx;
   border-radius: 50%;
@@ -68,7 +68,7 @@ page {
   margin-right: 10rpx;
 }
 
-.new_txt {
+.newTxt {
   max-width: 300rpx;
   display: inline-block;
   line-height: 60rpx;
@@ -77,7 +77,7 @@ page {
   border-radius: 20rpx;
 }
 
-.my_right .new_txt {
+.myRight .newTxt {
   margin-top: 15rpx;
   max-width: 300rpx;
   margin-right: 20rpx;
@@ -148,7 +148,7 @@ page {
   /* color: #666; */
 }
 
-.send_btn {
+.sendBtn {
   float: right;
   width: 100rpx;
   height: 50rpx;

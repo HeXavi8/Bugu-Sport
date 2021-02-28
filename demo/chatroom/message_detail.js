@@ -9,7 +9,7 @@ Page({
     message: "",
     previewImgList: [],
     id: "",
-    receiver_id: "",
+    receiverId: "",
     name: "",
     picture: "",
     index: 0,
@@ -24,27 +24,27 @@ Page({
     let index = e.index;                          //获取消息的索引
     let that = this;
     this.setData({
-      id: app.globalData.id,                      //用户的open_id
+      id: app.globalData.id,                      //用户的openId
       name: app.globalData.name,                  //用户的名称
       picture: app.globalData.userimgID,          //用户的头像
       newslist: app.globalData.message[index],    //用户与对方的聊天记录
       index: e.index
     })
 
-    //查看第一条消息，获取聊天对方的open_id
+    //查看第一条消息，获取聊天对方的openId
     if (app.globalData.message[index][0].sender != app.globalData.id) { //发送者不是本用户则为对方用户
       that.setData({
-        receiver_id: app.globalData.message[index][0].sender
+        receiverId: app.globalData.message[index][0].sender
       })
     } else { //对方为该消息的接收者
       that.setData({
-        receiver_id: app.globalData.message[index][0].receiver
+        receiverId: app.globalData.message[index][0].receiver
       })
     }
 
     //设置页面标题
     wx.setNavigationBarTitle({
-      title: e.receiver_name,
+      title: e.receiverName,
     })
 
     //监听新消息
@@ -57,7 +57,7 @@ Page({
    **/
   watchBack: function(value) {
     let that = this;
-    let index = app.globalData.com_user_list.indexOf(that.data.receiver_id);
+    let index = app.globalData.comUserList.indexOf(that.data.receiverId);
     this.setData({
       index: index,
       newslist: value[index]
@@ -118,10 +118,42 @@ Page({
 
   /**
    * 消息发送函数，在发送按钮被点击时触发
-   * 消息包括发送者open_id，名称，头像，消息内容，发送时间，接收者open_id
+   * 消息包括发送者openId，名称，头像，消息内容，发送时间，接收者openId
    **/
-  send: function() {
-    
+  sendMessage: function() {
+    //创建时间对象
+    var date = new Date();
+    let that = this;
+    //检查消息内容是否为空
+    if (that.data.content == "") {
+      wx.showModal({
+        title: '提示',
+        content: '请输入消息内容',
+        showCancel: false,
+      })
+      return;
+    }
+    //在数据库里添加该消息
+    wx.cloud.database().collection("xxx").add({    //这里填入数据库表名称
+      data: {
+        content: that.data.content,
+        sender: that.data.id,
+        receiver: that.data.receiverId,
+        isread: false,
+        time: date,
+        name: that.data.name,
+        picture: that.data.picture,
+      },
+      success: function(res) {
+        that.setData({
+          content: ""
+        })
+        that.bottom()
+      },
+      fail: function(res) {
+        console.log(res)
+      }
+    })
   },
 
   /**
@@ -143,7 +175,7 @@ Page({
     query.selectViewport().scrollOffset()
     query.exec(function(res) {
       wx.pageScrollTo({
-        scrollTop: res[1].scrollHeight + 500    // #the-id节点的下边界坐标
+        scrollTop: res[1].scrollHeight + 500    
       })
       res[1].scrollTop                          // 显示区域的竖直滚动位置
     })
@@ -153,14 +185,20 @@ Page({
   /**
    * 跳转到自己的个人中心
    **/
-  to_myself: function() {
-
+  toMyself: function() {
+    let that = this;
+    wx.navigateTo({
+      url: '../../userinfo/userinfo?_openid=' + that.data.id,
+    })
   },
 
   /**
    * 跳转到对方的个人中心
    **/
-  to_you: function() {
-
+  toYou: function() {
+    let that = this;
+    wx.navigateTo({
+      url: '../../userinfo/userinfo?_openid=' + that.data.receiverId,
+    })
   }
 })

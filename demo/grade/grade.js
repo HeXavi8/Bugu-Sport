@@ -4,22 +4,22 @@ Page({
    * 页面的初始数据
    */
   data: {
-    total_grade_star: [0, 0, 0, 0, 0],
-    a_grade_star: [0, 0, 0, 0, 0],
-    b_grade_star: [0, 0, 0, 0, 0],
-    c_grade_star: [0, 0, 0, 0, 0],
+    totalGradeStar: [0, 0, 0, 0, 0],
+    aGradeStar: [0, 0, 0, 0, 0],
+    bGradeStar: [0, 0, 0, 0, 0],
+    cGradeStar: [0, 0, 0, 0, 0],
 
-    star: ["img/star_gray.png", "img/star_yellow.png"],    
+    star: ["img/starGray.png", "img/starYellow.png"],    
 
-    total_grade: 0,
-    a_grade: 0,
-    b_grade: 0,
-    c_grade: 0,
+    totalGrade: 0,
+    aGrade: 0,
+    bGrade: 0,
+    cGrade: 0,
 
-    saishi_name: "",
-    saishi_place: "",
-    saishi_time: "",
-    saishi_picture: "",
+    saishiName: "",
+    saishiPlace: "",
+    saishiTime: "",
+    saishiPicture: "",
 
     iTime: {},
   },
@@ -30,10 +30,10 @@ Page({
   onLoad: function(e) {
     //获取赛事的信息
     this.setData({
-      saishi_name:e.saishi_name,
-      saishi_place:e.saishi_place,
-      saishi_picture:e.saishi_picture,
-      saishi_time:e.saishi_time
+      saishiName:e.saishiName,
+      saishiPlace:e.saishiPlace,
+      saishiPicture:e.saishiPicture,
+      saishiTime:e.saishiTime
     })
   },
 
@@ -98,20 +98,20 @@ Page({
     let that = this;
     switch (type) {
       case 0:
-        that.data.total_grade = index + 1;
-        that.chang_grade("total_grade_star", index);
+        that.data.totalGrade = index + 1;
+        that.changGrade("totalGrade_star", index);
         break;
       case 1:
-        that.data.a_grade = index + 1;
-        that.chang_grade("a_grade_star", index);
+        that.data.aGrade = index + 1;
+        that.changGrade("aGradeStar", index);
         break;
       case 2:
-        that.data.b_grade = index + 1;
-        that.chang_grade("b_grade_star", index);
+        that.data.bGrade = index + 1;
+        that.changGrade("bGradeStar", index);
         break;
       case 3:
-        that.data.c_grade = index + 1;
-        that.chang_grade("c_grade_star", index);
+        that.data.cGrade = index + 1;
+        that.changGrade("cGradeStar", index);
         break;
     }
   },
@@ -122,7 +122,7 @@ Page({
    * arr：所评项目
    * index：评分，用于控制星形按钮的颜色
    */
-  chang_grade(arr, index) {
+  changGrade(arr, index) {
     let that = this;
     switch (index) {
       case 0:
@@ -158,14 +158,14 @@ Page({
    **/
   reset: function() {
     this.setData({
-      total_grade: 0,
-      a_grade: 0,
-      b_grade: 0,
-      c_grade: 0,
-      total_grade_star: [0, 0, 0, 0, 0],
-      a_grade_star: [0, 0, 0, 0, 0],
-      b_grade_star: [0, 0, 0, 0, 0],
-      c_grade_star: [0, 0, 0, 0, 0],
+      totalGrade: 0,
+      aGrade: 0,
+      bGrade: 0,
+      cGrade: 0,
+      totalGradeStar: [0, 0, 0, 0, 0],
+      aGradeStar: [0, 0, 0, 0, 0],
+      bGradeStar: [0, 0, 0, 0, 0],
+      cGradeStar: [0, 0, 0, 0, 0],
     })
   },
 
@@ -174,12 +174,12 @@ Page({
    **/
   confirm: function() {
     let that = this;
-    var all_grade_test = that.data.total_grade * that.data.a_grade * that.data.b_grade * that.data.c_grade;
-    var diff_test = that.data.total_grade - (that.data.a_grade + that.data.b_grade + that.data.c_grade) / 3;
+    var allGradeTest = that.data.totalGrade * that.data.aGrade * that.data.bGrade * that.data.cGrade;
+    var diffTest = that.data.totalGrade - (that.data.aGrade + that.data.bGrade + that.data.cGrade) / 3;
     
     //检查用户是否对所有项进行评分，并对比总体评分和各小项的平均分的差距
     //如果两者差别在1.5分以上，要求用户重新评分
-    if (all_grade_test == 0) {
+    if (allGradeTest == 0) {
       wx.showModal({
         title: '提示',
         content: '请为所有项目评分',
@@ -187,7 +187,7 @@ Page({
       })
       return
     } else {
-      if (diff_test > 1.5 || diff_test < -1.5) {
+      if (diffTest > 1.5 || diffTest < -1.5) {
         wx.showModal({
           title: '提示',
           content: '总分与小项结果不符，请重新评分',
@@ -197,7 +197,27 @@ Page({
       }
 
       //在数据库里添加本评分记录
-
+      wx.cloud.callFunction({
+        name: "saishiGrade",
+        data: {
+          matchName: that.data.saishiName,
+          totalGrade: that.data.totalGrade,
+          aGrade: that.data.aGrade,
+          bGrade: that.data.bGrade,
+          cGrade: that.data.cGrade
+        },
+        success: function(res) {
+          console.log(res);
+          wx.showModal({
+            title: '提示',
+            content: '评价成功',
+            showCancel: false
+          })
+        },
+        fail: function(res) {
+          console.log(res);
+        }
+      })
     }
   },
 
