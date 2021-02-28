@@ -1,0 +1,203 @@
+page {
+  background-color: #eee;
+  height: 100%;
+}
+
+/* 聊天内容 */
+
+.news {
+  box-sizing: border-box;
+}
+
+#flag {
+  margin-bottom: 100rpx;
+  height: 70rpx;
+}
+
+.chat-notice {
+  text-align: center;
+  font-size: 30rpx;
+  padding: 10rpx 0;
+  color: #666;
+}
+
+.historycon {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  border-top: 0px;
+}
+
+/* 聊天 */
+
+.chat-news {
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+}
+
+.chat-news .my_right {
+  float: right;
+  padding: 10rpx 10rpx;
+}
+
+.you_left .new_txt {
+  margin-top: 15rpx;
+  max-width: 300rpx;
+  margin-left: 10rpx;
+  border-radius: 20rpx;
+  background-color: #fff;
+}
+
+.selectImg {
+  display: inline-block;
+  width: 150rpx;
+  height: 150rpx;
+  margin-left: 50rpx;
+}
+
+.my_right .selectImg {
+  margin-right: 80rpx;
+}
+
+.new_img {
+  width: 60rpx;
+  height: 60rpx;
+  border-radius: 50%;
+  vertical-align: middle;
+  margin-right: 10rpx;
+}
+
+.new_txt {
+  max-width: 300rpx;
+  display: inline-block;
+  line-height: 60rpx;
+  background-color: #fff;
+  padding: 5rpx 20rpx;
+  border-radius: 20rpx;
+}
+
+.my_right .new_txt {
+  margin-top: 15rpx;
+  max-width: 300rpx;
+  margin-right: 20rpx;
+  border-radius: 20rpx;
+  background-color: #cfcdec;
+}
+
+.you {
+  background-color: lightgreen;
+}
+
+.my {
+  border-color: transparent transparent transparent #95d4ff;
+}
+
+.you {
+  border-color: transparent #95d4ff transparent transparent;
+}
+
+.hei {
+  margin-top: 50px;
+  height: 20rpx;
+}
+
+.history {
+  height: 100%;
+  padding: 10rpx;
+  font-size: 14px;
+  line-height: 40px;
+  word-break: break-all;
+}
+
+::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  color: transparent;
+  z-index: -1;
+}
+
+/* 信息输入区域 */
+
+.message {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.sendMessage {
+  display: block;
+  height: 80rpx;
+  padding: 10rpx 10rpx;
+  border-top: 2rpx solid #eee;
+  /* border-bottom: 2rpx solid #eee; */
+  background-color: #f7f7f7;
+  z-index: 3;
+}
+
+.sendMessage input {
+  float: left;
+  width: 600rpx;
+  height: 70rpx;
+  margin-top: 5rpx;
+  line-height: 60rpx;
+  padding: 0 10rpx;
+  font-size: 30rpx;
+  background-color: #fff;
+  border-radius: 40rpx;
+  /* color: #666; */
+}
+
+.send_btn {
+  float: right;
+  width: 100rpx;
+  height: 50rpx;
+  margin-top: 15rpx;
+  border-radius: 20rpx;
+  background-color: #605ace;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #fff;
+  font-size: 30rpx;
+}
+
+@keyframes slidedown {
+  from {
+    transform: translateY(0);
+  }
+
+  to {
+    transform: translateY(100%);
+  }
+}
+
+.slidedown {
+  animation: slidedown 0.5s linear;
+}
+
+.slideup {
+  animation: slideup 0.5s linear;
+}
+
+@keyframes slideup {
+  from {
+    transform: translateY(100%);
+  }
+
+  to {
+    transform: translateY(0);
+  }
+}
+
+.chat-mynews {
+  overflow: hidden;
+  float: right;
+  width: 100%;
+}
+
+.temp {
+  float: right;
+  display: flex;
+}

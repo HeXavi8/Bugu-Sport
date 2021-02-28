@@ -1,0 +1,40 @@
+<view class="news">
+  <view class="historycon">
+    <scroll-view scroll-y="true" class="history" scroll-top="{{scrollTop}}">
+      <block wx:for="{{newslist}}" wx:key="index">
+        <!--自己的消息 -->
+        <view class="chat-mynews" wx:if="{{item.sender == id}}">
+          <view class="temp">
+            <view class='my_right'>
+              <block>
+                <view class='new_txt'>{{item.content}}</view>
+              </block>
+            </view>
+            <view style="padding-right: 20rpx;">
+              <image class='new_img' src="{{item.picture}}" bindtap="to_myself"></image>
+            </view>
+          </view>
+        </view>
+        <!-- 别人的消息 -->
+        <view class="chat-news" wx:else>
+          <view style="text-align: left;padding-left: 20rpx;">
+            <image class='new_img' src="{{item.picture}}" bindtap="to_you"></image>
+          </view>
+          <view class='you_left'>
+            <block>
+              <view class='new_txt'>{{item.content}}</view>
+            </block>
+          </view>
+        </view>
+      </block>
+    </scroll-view>
+  </view>
+</view>
+<view id="flag"></view>
+<!-- 聊天输入 -->
+<view class="message">
+  <form bindreset="cleanInput" class="sendMessage">
+    <input type="text" value="{{content}}" bindinput='bindChange'></input>
+    <view class="send_btn" bindtap="send">发送</view>
+  </form>
+</view>
