@@ -14,7 +14,7 @@
 - [Contact us](#contact-us)
   
 ## Project Overview
-   BUGU-Sports is a WeChat mini program on the subject of campus sports whose users groups mainly focus on students, including college students, primary and secondary school students.
+   BUGU-Sports is a WeChat mini program on the subject of campus sports whose users groups mainly focus on students, including college students, primary and secondary school students.</br>
    <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/main.PNG" width = "250"/>
 
 ## Development Purpose
@@ -27,29 +27,29 @@
 
 
 ## Platform Support
-### "Match": Invitations sending, Games discussion, Inter-school communication</br>
+### Match----Invitations sending, Games discussion, Inter-school communication</br>
     1. Users can choose their favored sports and their school and campus to filter out other users with the same interests. interests with them. 
     2. Meanwhile, users can apply as individuals or as teams to other users or teams who want to compete.
    <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/invite1.PNG" width = "200"/>&emsp;
    <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/invite2.PNG" width = "200"/>
 
-### "Street Game": Search for pitches, Find partners, teachers and students allowed</br>
+### Street Game----Search for pitches, Find partners, teachers and students allowed</br>
     1. We collected information of sports pitches for 10 schools and 29 campuses. 
     2. Users can choose a pitch in any particular school or campus, a schedule of when they want to play, and eventually start or join a pick-up game.
    <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/ground1.PNG" width = "200"/>&emsp;
    <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/ground2.PNG" width = "200"/>
    
-### "Team": Search for teams, Join a team</br>
+### Team----Search for teams, Join a team</br>
     1. Users can create and manage their own teams.
     2. or search for teams they are interested in to apply and join.
    <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/team.PNG" width = "200"/>&emsp;
    <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/team_detail.PNG" width = "200"/>
 
-### "Authentication": Events authentication, Team authentication, Personal authentication</br>
+### Authentication----Events authentication, Team authentication, Personal authentication</br>
     1. Users can obtain the right to create events or teams after the identity authentication.
    <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/certification.PNG" width = "200"/>
 
-### "Events": Find events,  Join events,  Release information</br>
+### Events----Find events,  Join events,  Release information</br>
     1. Events organizers can manage participants and upload and post details, progress and data of the event. 
     2. Users can also search for the games they are interested in and join them as individuals or teams.
    <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/match.PNG" width = "200"/>&emsp;
@@ -59,7 +59,7 @@
    <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/match_against2.PNG" width = "200"/>&emsp;
    <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/match_data.PNG" width = "200"/>
 
-### "Personal": Private messages, Verify invitations, Personal page</br>
+### Personal----Private messages, Verify invitations, Personal page</br>
     1. Users can reply to their own received private messages, verify received invitations for events or teams
     2. View and display your personal homepage. 
    <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/my.PNG" width = "200"/>&emsp;
