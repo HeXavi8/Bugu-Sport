@@ -2,12 +2,12 @@
   - [项目介绍](#项目介绍)
   - [开发目的](#开发目的)
   - [功能介绍](#功能介绍)
-    - [约赛功能——发送邀请、协商比赛、跨校交流</br>](#约赛功能发送邀请协商比赛跨校交流br)
-    - [野球功能——查找场地、寻找球友、师生参与</br>](#野球功能查找场地寻找球友师生参与br)
-    - [队伍功能——查找队伍、加入队伍</br>](#队伍功能查找队伍加入队伍br)
-    - [认证功能——赛事认证、队伍认证、个人认证</br>](#认证功能赛事认证队伍认证个人认证br)
-    - [赛事功能——查找赛事、加入赛事、发布资讯</br>](#赛事功能查找赛事加入赛事发布资讯br)
-    - [个人功能——私信、验证信息、个人主页</br>](#个人功能私信验证信息个人主页br)
+    - [约赛功能——发送邀请、协商比赛、跨校交流](#约赛功能发送邀请协商比赛跨校交流)
+    - [野球功能——查找场地、寻找球友、师生参与](#野球功能查找场地寻找球友师生参与)
+    - [队伍功能——查找队伍、加入队伍](#队伍功能查找队伍加入队伍)
+    - [认证功能——赛事认证、队伍认证、个人认证](#认证功能赛事认证队伍认证个人认证)
+    - [赛事功能——查找赛事、加入赛事、发布资讯](#赛事功能查找赛事加入赛事发布资讯)
+    - [个人功能——私信、验证信息、个人主页](#个人功能私信验证信息个人主页)
   - [未来期望](#未来期望)
   - [开发者心得](#开发者心得)
   - [联系方式](#联系方式)
@@ -25,29 +25,29 @@
 
 
 ## 功能介绍
-### 约赛功能——发送邀请、协商比赛、跨校交流</br>
+### 约赛功能——发送邀请、协商比赛、跨校交流
     1. 同学们可以选择自己感兴趣的运动类型、所在的学校、校区，筛选出和自己有相同体育爱好的同学朋友。
     2. 并可以以个人身份或者队伍身份向想要进行比赛的同学队伍发出约赛申请
    <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/invite1.PNG" width = "200"/>&emsp;
    <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/invite2.PNG" width = "200"/>
 
-### 野球功能——查找场地、寻找球友、师生参与</br>
+### 野球功能——查找场地、寻找球友、师生参与
     1. 这里有10个学校29个校区的体育场地信息。
     2. 在这里同学们可以选择特定学校、特定校区的场地，选择自己想要进行体育运动的时间，发起或者加入到一场野球比赛当中。
    <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/ground1.PNG" width = "200"/>&emsp;
    <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/ground2.PNG" width = "200"/>
    
-### 队伍功能——查找队伍、加入队伍</br>
+### 队伍功能——查找队伍、加入队伍
     1. 在这里同学们可以创建自己的队伍，并对自己的队伍进行管理。
     2. 也可以搜索自己感兴趣的队伍申请并加入
    <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/team.PNG" width = "200"/>&emsp;
    <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/team_detail.PNG" width = "200"/>
 
-### 认证功能——赛事认证、队伍认证、个人认证</br>
+### 认证功能——赛事认证、队伍认证、个人认证
     1. 在这里同学们可获得创建赛事的权限、获得创建队伍的权限、以及可以对个人的身份、管理员的身份进行认证。
    <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/certification.PNG" width = "200"/>
 
-### 赛事功能——查找赛事、加入赛事、发布资讯</br>
+### 赛事功能——查找赛事、加入赛事、发布资讯
     1. 作为赛事创建者，可以对参赛者进行管理、对比赛的详情、进程、数据进行上传展示。
     2. 同学们也可以搜索自己感兴趣的比赛，以个人或者队伍身份加入到赛事当中。
    <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/match.PNG" width = "200"/>&emsp;
@@ -57,7 +57,7 @@
    <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/match_against2.PNG" width = "200"/>&emsp;
    <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/match_data.PNG" width = "200"/>
 
-### 个人功能——私信、验证信息、个人主页</br>
+### 个人功能——私信、验证信息、个人主页
     1. 在这里同学们可以处理自己收到的私信并进行回复。 
     2. 验证收到的约赛信息，加入队伍或赛事的信息。 
     3. 查看并展示自己的个人主页。
