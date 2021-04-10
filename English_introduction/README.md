@@ -41,7 +41,7 @@
    
 ### Team----Search for teams, Join a team</br>
     1. Users can create and manage their own teams.
-    2. or search for teams they are interested in to apply and join.
+    2. Search for teams they are interested in to apply and join.
    <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/team.PNG" width = "200"/>&emsp;
    <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/team_detail.PNG" width = "200"/>
 
