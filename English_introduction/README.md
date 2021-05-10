@@ -73,7 +73,7 @@
     2. We also hope to introduce professional resources, such as coaches and referees, to provide professional guidance for students. We hope to build up a scouting system to explore more potential players.
 
 ## Meet the Developer
-    1. Our team is composed of 3 programmers and 1 user interface designer, but we are also sports lovers, focusing on the development of campus sports. We hope to make a contribution to the development of campus sports, so that the campus sports atmosphere can be stronger. We also hope that students can have more ways to compete with partners from different campuses and schools.
+    1. Our team is composed of 3 programmers and 1 user interface designer, we are also sports lovers, focusing on the development of campus sports. We hope to make a contribution to the development of campus sports, so that the campus sports atmosphere can be stronger. We also hope that students can have more ways to compete with partners from different campuses and schools.
     2. Developing this mini-program, on one hand, is to explore the possibilities of campus sports, and to find more inspiration in practice so as to be more likely to help the development of campus sports in the future on the other.
     3. Due to our initial experience, our team size is rather small and BUGU-Sports still has various deficiencies and is in constant iteration.
     4. After some exploration on campus sports, we found many problems and resistance. However, our desire to help the development of campus sports remains. Therefore, we sincerely hope that more and more people will pay attention to campus sports and even devote themselves to it. Together, we can create a different possibility for the development of campus sports.
