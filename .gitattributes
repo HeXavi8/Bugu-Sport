@@ -1,4 +1,4 @@
-*.js linguist-language=Java
+*.js linguist-language=JavaScript
 
 # Windows
 [Dd]esktop.ini
