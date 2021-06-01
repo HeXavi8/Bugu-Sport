@@ -1,3 +1,16 @@
-*.js linguist-language=javascript
-*.wxss linguist-language=css
-*.wtml linguist-language=html
+*.js linguist-language=Java
+
+# Windows
+[Dd]esktop.ini
+Thumbs.db
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+
+# Node.js
+node_modules/
