@@ -1,3 +1,3 @@
-demos/chatroom/chatroom.js -linguist-detectable
-# *.wxml linguist-language=html
-# *.wxss linguist-language=css
+*.js linguist-language=javascript
+*.wxss linguist-language=css
+*.wtml linguist-language=html
