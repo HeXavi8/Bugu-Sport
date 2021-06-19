@@ -7,7 +7,7 @@ Bugu Sport (不咕约球) is a WeChat mini program on the subject of campus spor
 * [Usage](#Usage)
 * [Documentations](#Documentations)
 * [Examples](#Examples)
-* [Developers](#Developers)
+* [Project Members](#Project Members)
 
 ## Poster <a name="Poster"></a>
 
@@ -34,7 +34,7 @@ Our examples are kept updating...
 
 <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/bgLogo.PNG" style = "" height = "200"  />
 
-## Developers <a name="Developers"></a>
+## Project Members <a name="Project Members"></a>
 
 - [Xavi](https://github.com/HeXavi8) - **Xavi He** &lt; 825308876@qq.com&gt; (he/him)
 
