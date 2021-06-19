@@ -39,3 +39,4 @@ Our examples are kept updating...
 - [Xavi](https://github.com/HeXavi8) - **Xavi He** &lt; 825308876@qq.com&gt; (he/him)
 
 ## License
+[MIT](https://github.com/HeXavi8/BUGU-Sport/blob/main/LICENSE)
