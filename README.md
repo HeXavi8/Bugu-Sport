@@ -1,4 +1,4 @@
-# <img src='https://github.com/HeXavi8/BUGU-Sport/blob/main/images/title.png' height='60'/></br>
+# <img src='https://github.com/HeXavi8/BUGU-Sport/blob/main/images/title1.png' height='60'/></br>
 
 Bugu Sport (不咕约球) is a WeChat mini program on the subject of campus sports whose users groups mainly focus on students, including college students, primary and secondary school students.
 
