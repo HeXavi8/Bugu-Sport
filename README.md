@@ -11,7 +11,7 @@ Bugu Sport (不咕约球) is a WeChat mini program on the subject of campus spor
 
 ## Poster <a name="Poster"></a>
 
-<img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/intro2.jpg" width = "200"  />&emsp; <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/intro1.jpg" width = "200"  />
+<img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/intro2.jpg" width = "300"  />&emsp; <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/intro1.jpg" width = "300"  />
 ## Usage <a name="Usage"></a>
 
 Bugu Sport is based on WeChat platform. If you would like to experience this software, please download WeChat and scan the QR code.
@@ -26,15 +26,13 @@ Bugu Sport is based on WeChat platform. If you would like to experience this sof
 ## Examples <a name="Examples"></a>
 
 - [chatroom](https://github.com/HeXavi8/BUGU-Sport/tree/main/demos/chatroom)
-- 
 - [grade](https://github.com/HeXavi8/BUGU-Sport/tree/main/demos/grade)
 
 Our examples are kept updating...
 
 ## Logo <a name="Logo"></a>
 
-<img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/logo.PNG" width = "200"  /> </br>
-<img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/bgLogo.PNG" height = "200"  />
+<img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/bgLogo.PNG" style = "" height = "200"  />
 
 ## Developers <a name="Developers"></a>
 
