@@ -36,11 +36,11 @@ Our examples are kept updating...
 
 The Bugu Sport logo and user interface was designed by [Abbey Yang](https://github.com/AbbeyYang).  
 
-<img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/title1.jpg" height = "100"  />
-<img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/title2.jpg" height = "100"  />
+<img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/title1.png" height = "100"  />
+<img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/title2.png" height = "100"  />
 
-<img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/title3.jpg" height = "100"  />
-<img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/title4.jpg" height = "100"  />
+<img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/title3.png" height = "100"  />
+<img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/title4.png" height = "100"  />
 
 
 ## Project Members <a name="Project_Members"></a>
