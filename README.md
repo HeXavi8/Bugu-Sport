@@ -1,4 +1,4 @@
-# <img src='https://github.com/HeXavi8/BUGU-Sport/blob/main/images/title1.png' height='60'/></br>
+# <img src='https://github.com/HeXavi8/BUGU-Sport/blob/main/images/title1.png' height='100'/></br>
 
 Bugu Sport (不咕约球) is a WeChat mini program on the subject of campus sports whose users groups mainly focus on students, including college students, primary and secondary school students.
 
@@ -9,7 +9,6 @@ Bugu Sport (不咕约球) is a WeChat mini program on the subject of campus spor
 * [Examples](#Examples)
 * [Design](#Design)
 * [Project Members](#Project_Members)
-* [Contact Us](#Contact_us)
 * [License](#License)
 
 ## Poster <a name="Poster"></a>
@@ -37,16 +36,14 @@ Our examples are kept updating...
 
 The Bugu Sport logo and user interface were designed by [Abbey Yang](https://github.com/AbbeyYang).  
 
-<img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/title2.png" height = "100"  />
-
-<img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/title4.png" height = "100"  />
+<img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/title2.png" height = "50"  /> <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/title4.png" height = "50"  />
 
 
 ## Project Members <a name="Project_Members"></a>
 
 - [Xavi](https://github.com/HeXavi8) - **Xavi He** &lt; 825308876@qq.com&gt; (he/him)
 
-## Contact Us <a name="Contact_us"></a>
+#### Contact Us
 If you have any suggestions or would like to cooperate with us, please feel free to contact us. </br>
 
 ## License <a name="License"></a>
