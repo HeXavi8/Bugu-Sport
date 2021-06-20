@@ -45,5 +45,12 @@ The Bugu Sport logo and user interface were designed by [Abbey Yang](https://git
 
 - [Xavi](https://github.com/HeXavi8) - **Xavi He** &lt; 825308876@qq.com&gt; (he/him)
 
+<<<<<<< Updated upstream
 ## License <a name="License"></a>
+=======
+## Contact us
+If you have any suggestions or would like to cooperate with us, please feel free to contact us. </br>
+
+## License
+>>>>>>> Stashed changes
 [MIT](https://github.com/HeXavi8/BUGU-Sport/blob/main/LICENSE)

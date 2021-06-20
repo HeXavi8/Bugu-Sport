@@ -80,4 +80,3 @@
 
 ## Contact us
 If you have any other suggestions or would like to cooperate with us, please feel free to contact us. </br>
-Email: 825308876@qq.com, 1243038585@qq.com
