@@ -34,12 +34,10 @@ Our examples are kept updating...
 
 ## Design <a name="Design"></a>
 
-The Bugu Sport logo and user interface was designed by [Abbey Yang](https://github.com/AbbeyYang).  
+The Bugu Sport logo and user interface were designed by [Abbey Yang](https://github.com/AbbeyYang).  
 
-<img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/title1.png" height = "100"  />
 <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/title2.png" height = "100"  />
 
-<img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/title3.png" height = "100"  />
 <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/title4.png" height = "100"  />
 
 
@@ -47,5 +45,5 @@ The Bugu Sport logo and user interface was designed by [Abbey Yang](https://gith
 
 - [Xavi](https://github.com/HeXavi8) - **Xavi He** &lt; 825308876@qq.com&gt; (he/him)
 
-## License
+## License <a name="License"></a>
 [MIT](https://github.com/HeXavi8/BUGU-Sport/blob/main/LICENSE)
