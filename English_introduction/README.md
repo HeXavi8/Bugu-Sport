@@ -11,7 +11,6 @@
   -  [Personal----Private messages, Verify invitations, Personal page</br>](#personal----private-messages-verify-invitations-personal-pagebr)    
 - [Expectations](#expectations)    
 - [Meet the Developer](#meet-the-developer)    
-- [Contact us](#contact-us)
   
 ## Project Overview
    BUGU-Sports is a WeChat mini program on the subject of campus sports whose users groups mainly focus on students, including college students, primary and secondary school students.</br>
@@ -78,5 +77,3 @@
     3. Due to our initial experience, our team size is rather small and BUGU-Sports still has various deficiencies and is in constant iteration.
     4. After some exploration on campus sports, we found many problems and resistance. However, our desire to help the development of campus sports remains. Therefore, we sincerely hope that more and more people will pay attention to campus sports and even devote themselves to it. Together, we can create a different possibility for the development of campus sports.
 
-## Contact us
-If you have any other suggestions or would like to cooperate with us, please feel free to contact us. </br>

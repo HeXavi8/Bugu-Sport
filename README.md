@@ -9,6 +9,7 @@ Bugu Sport (不咕约球) is a WeChat mini program on the subject of campus spor
 * [Examples](#Examples)
 * [Design](#Design)
 * [Project Members](#Project_Members)
+* [Contact Us](#Contact_us)
 * [License](#License)
 
 ## Poster <a name="Poster"></a>
@@ -45,12 +46,9 @@ The Bugu Sport logo and user interface were designed by [Abbey Yang](https://git
 
 - [Xavi](https://github.com/HeXavi8) - **Xavi He** &lt; 825308876@qq.com&gt; (he/him)
 
-<<<<<<< Updated upstream
-## License <a name="License"></a>
-=======
-## Contact us
+## Contact Us <a name="Contact_us"></a>
 If you have any suggestions or would like to cooperate with us, please feel free to contact us. </br>
 
-## License
->>>>>>> Stashed changes
+## License <a name="License"></a>
+
 [MIT](https://github.com/HeXavi8/BUGU-Sport/blob/main/LICENSE)
