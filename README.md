@@ -1,4 +1,4 @@
-# <img src='https://github.com/HeXavi8/BUGU-Sport/blob/main/images/title1.png' height='100'/></br>
+# <img src='https://github.com/HeXavi8/BUGU-Sport/blob/main/images/title1.png' height='60'/></br>
 
 Bugu Sport (不咕约球) is a WeChat mini program on the subject of campus sports whose users groups mainly focus on students, including college students, primary and secondary school students.
 
@@ -36,7 +36,7 @@ Our examples are kept updating...
 
 The Bugu Sport logo and user interface were designed by [Abbey Yang](https://github.com/AbbeyYang).  
 
-<img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/title2.png" height = "50"  /> <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/title4.png" height = "50"  />
+<img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/title2.png" height = "80"  /> <img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/title4.png" height = "80"/>
 
 
 ## Project Members <a name="Project_Members"></a>
