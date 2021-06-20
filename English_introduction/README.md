@@ -29,28 +29,33 @@
 ### Match----Invitations sending, Games discussion, Inter-schools communication <a name = "match"></a>
    1. Users can choose their favored sports and their school and campus to filter out other users with the same interests. interests with them. </br>
    2. Meanwhile, users can apply as individuals or as teams to other users or teams who want to compete.</br>
+   
    <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/invite1.PNG" width = "200"/>&emsp;
    <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/invite2.PNG" width = "200"/>
 
 ### Street Game----Search for pitches, Find partners, Teachers and students allowed <a name = "street-game"></a>
    1. We collected information of sports pitches for 10 schools and 29 campuses. </br>
    2. Users can choose a pitch in any particular school or campus, a schedule of when they want to play, and eventually start or join a pick-up game.</br>
+   
    <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/ground1.PNG" width = "200"/>&emsp;
    <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/ground2.PNG" width = "200"/>
    
 ### Team----Find teams, Join a team, Manage teams <a name = "team"></a>
    1. Users can create and manage their own teams.</br>
    2. Search for teams they are interested in to apply and join.</br>
+   
    <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/team.PNG" width = "200"/>&emsp;
    <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/team_detail.PNG" width = "200"/>
 
 ### Authentication----Events authentication, Team authentication, Personal authentication <a name = "authentication"></a>
    1. Users can obtain the right to create events or teams after the identity authentication.</br>
+   
    <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/certification.PNG" width = "200"/>
 
 ### Events----Find events,  Join events,  Release information <a name = "events"></a>
    1. Events organizers can manage participants and upload and post details, progress and data of the event. </br>
    2. Users can also search for the games they are interested in and join them as individuals or teams.</br>
+   
    <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/match.PNG" width = "200"/>&emsp;
    <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/match_main.PNG" width = "200"/>&emsp;
    <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/match_participant.PNG" width = "200"/>&emsp;
@@ -61,6 +66,7 @@
 ### Personal----Private messages, Verify invitations, Personal page <a name = "personal"></a>
    1. Users can reply to their own received private messages, verify received invitations for events or teams.</br>
    2. View and display your personal homepage. </br>
+   
    <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/my.PNG" width = "200"/>&emsp;
    <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/my_main.PNG" width = "200"/>&emsp;
    <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/message1.PNG" width = "200"/>&emsp;
