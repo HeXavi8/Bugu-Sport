@@ -35,13 +35,13 @@ Our examples are kept updating...
 ## Design <a name="Design"></a>
 
 The Bugu Sport logo and user interface was designed by [Abbey Yang](https://github.com/AbbeyYang).  
-<img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/title1.jpg" width = "100"  />
-<img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/title2.jpg" width = "100"  />
-<img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/title3.jpg" width = "100"  />
-<img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/title4.jpg" width = "100"  />
 
+<img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/title1.jpg" height = "100"  />
+<img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/title2.jpg" height = "100"  />
 
-<img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/bgLogo.PNG" style = "" height = "200"  />
+<img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/title3.jpg" height = "100"  />
+<img src="https://github.com/HeXavi8/BUGU-Sport/blob/main/images/title4.jpg" height = "100"  />
+
 
 ## Project Members <a name="Project_Members"></a>
 
