@@ -36,7 +36,7 @@ Our examples are kept updating...
 
 The Bugu Sport logo and user interface were designed by [Abbey Yang](https://github.com/AbbeyYang).  
 
-<img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/title2.png" height = "80"  /> <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/title4.png" height = "80"/>
+<img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/title2.png" height = "60"  /> <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/title4.png" height = "60"/>
 
 
 ## Project Members <a name="Project_Members"></a>
@@ -44,7 +44,6 @@ The Bugu Sport logo and user interface were designed by [Abbey Yang](https://git
 - [Xavi](https://github.com/HeXavi8) - **Xavi He** &lt; 825308876@qq.com&gt; (he/him)
 - [kapuskasing](https://github.com/kapuskasing) - **Kapuskasing Su** &lt; 1243038585@qq.com&gt; (he/him)
 
-#### Contact Us
 If you have any suggestions or would like to cooperate with us, please feel free to contact us. </br>
 
 ## License <a name="License"></a>
