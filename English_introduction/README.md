@@ -4,7 +4,7 @@
 - [Development Purpose](#purpose)    
 - [Platform Support](#support)        
   - [Match----Invitations sending, Games discussion, Inter-school communication</br>](#match)        
-  - [Street Game----Search for pitches, Find partners, Teachers and students allowed</br>](#street-game)        
+  - [Street Game----Search for pitches, Find partners, Teachers and students allowed</br>](#street)        
   - [Team----Find teams, Join a team, Manage teams</br>](#team)        
   - [Authentication----Events authentication, Team authentication, Personal authentication</br>](#authentication)        
   - [Events----Find events, Join events, Release information</br>](#events)        
@@ -33,7 +33,7 @@
    <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/invite1.PNG" width = "200"/>&emsp;
    <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/invite2.PNG" width = "200"/>
 
-### Street Game----Search for pitches, Find partners, Teachers and students allowed <a name = "street-game"></a>
+### Street Game----Search for pitches, Find partners, Teachers and students allowed <a name = "street"></a>
    1. We collected information of sports pitches for 10 schools and 29 campuses. </br>
    2. Users can choose a pitch in any particular school or campus, a schedule of when they want to play, and eventually start or join a pick-up game.</br>
    
