@@ -32,7 +32,7 @@
    <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/invite1.PNG" width = "200"/>&emsp;
    <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/invite2.PNG" width = "200"/>
 
-### 野球功能——查找场地、寻找球友、师生参与 <a name = "野球功能"></a>
+### 野球功能——查找场地、寻找球友、师生参与 <a name ="野球功能"></a>
    1. 这里有10个学校29个校区的体育场地信息。
    2. 在这里同学们可以选择特定学校、特定校区的场地，选择自己想要进行体育运动的时间，发起或者加入到一场野球比赛当中。
    
@@ -73,11 +73,11 @@
    <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/message2.PNG" width = "200"/>&emsp;
    <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/message_detail.PNG" width = "200"/>&emsp;
    
-## 未来期望 <a name = "项目介绍"></a>
+## 未来期望 <a name = "未来期望"></a>
    * 希望可以和更多学校体育部门协会合作，打造一个氛围更好的校园体育社区，同学们提供更多体验更好的服务。
    * 希望引入专业的资源，如教练员、裁判员，为同学们提供专业指导，建立球探体系，挖掘探索出更多具有潜力的球员。
 
-## 开发者心得 <a name = "项目介绍"></a>
+## 开发者心得 <a name = "开发者心得"></a>
    * 作为一名普通的大学生、程序猿，同时也是一名体育爱好者，对于校园体育的发展有自己的一点看法，非常希望通过自己所学所感，为校园体育的发展贡献自己的一份绵薄之力，让校园体育的氛围更加浓厚，让同学们也获得更多和不同校区不同学校进行比赛交流的途径。
    * 开发这款软件，一来是为了探索校园体育的种种可能，二来是为了在实践中找到更多灵感，从而在未来更有可能为校园体育的发展助力。
    * 由于我们也是初次进行项目开发以及摸索，团队规模很小，开发的这款应用仍有种种不足，仍在不断迭代中。
