@@ -13,7 +13,7 @@
 
 ## 项目介绍 <a name = "项目介绍"></a>
    不咕约球是一款以校园体育为主题的微信小程序，用户群体主要集中于学生群体，包括高校学生和中小学学生等。</br>
-   <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/main.PNG" width = "250"/>
+   <img src="../images/main.PNG" width = "250"/>
 
 ## 开发目的 <a name = "开发目的"></a>
    * 为小众体育运动爱好者提供一个寻找相同爱好者的平台。
@@ -29,49 +29,49 @@
    1. 同学们可以选择自己感兴趣的运动类型、所在的学校、校区，筛选出和自己有相同体育爱好的同学朋友。
    2. 并可以以个人身份或者队伍身份向想要进行比赛的同学队伍发出约赛申请
    
-   <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/invite1.PNG" width = "200"/>&emsp;
-   <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/invite2.PNG" width = "200"/>
+   <img src="../images/invite1.PNG" width = "200"/>&emsp;
+   <img src="../images/invite2.PNG" width = "200"/>
 
 ### 野球功能——查找场地、寻找球友、师生参与 <a name ="野球功能"></a>
    1. 这里有10个学校29个校区的体育场地信息。
    2. 在这里同学们可以选择特定学校、特定校区的场地，选择自己想要进行体育运动的时间，发起或者加入到一场野球比赛当中。
    
-   <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/ground1.PNG" width = "200"/>&emsp;
-   <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/ground2.PNG" width = "200"/>
+   <img src="../images/ground1.PNG" width = "200"/>&emsp;
+   <img src="../images/ground2.PNG" width = "200"/>
    
 ### 队伍功能——查找队伍、加入队伍 <a name = "队伍功能"></a>
    1. 在这里同学们可以创建自己的队伍，并对自己的队伍进行管理。
    2. 也可以搜索自己感兴趣的队伍申请并加入
   
-   <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/team.PNG" width = "200"/>&emsp;
-   <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/team_detail.PNG" width = "200"/>
+   <img src="../images/team.PNG" width = "200"/>&emsp;
+   <img src="../images/team_detail.PNG" width = "200"/>
 
 ### 认证功能——赛事认证、队伍认证、个人认证 <a name = "认证功能"></a>
    1. 在这里同学们可获得创建赛事的权限、获得创建队伍的权限、以及可以对个人的身份、管理员的身份进行认证。
    
-   <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/certification.PNG" width = "200"/>
+   <img src="../images/certification.PNG" width = "200"/>
 
 ### 赛事功能——查找赛事、加入赛事、发布资讯 <a name = "赛事功能"></a>
    1. 作为赛事创建者，可以对参赛者进行管理、对比赛的详情、进程、数据进行上传展示。
    2. 同学们也可以搜索自己感兴趣的比赛，以个人或者队伍身份加入到赛事当中。
    
-   <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/match.PNG" width = "200"/>&emsp;
-   <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/match_main.PNG" width = "200"/>&emsp;
-   <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/match_participant.PNG" width = "200"/>&emsp;
-   <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/match_against1.PNG" width = "200"/>&emsp;
-   <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/match_against2.PNG" width = "200"/>&emsp;
-   <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/match_data.PNG" width = "200"/>
+   <img src="../images/match.PNG" width = "200"/>&emsp;
+   <img src="../images/match_main.PNG" width = "200"/>&emsp;
+   <img src="../images/match_participant.PNG" width = "200"/>&emsp;
+   <img src="../images/match_against1.PNG" width = "200"/>&emsp;
+   <img src="../images/match_against2.PNG" width = "200"/>&emsp;
+   <img src="../images/match_data.PNG" width = "200"/>
 
 ### 个人功能——私信、验证信息、个人主页 <a name = "个人功能"></a>
    1. 在这里同学们可以处理自己收到的私信并进行回复。 
    2. 验证收到的约赛信息，加入队伍或赛事的信息。 
    3. 查看并展示自己的个人主页。
    
-   <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/my.PNG" width = "200"/>&emsp;
-   <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/my_main.PNG" width = "200"/>&emsp;
-   <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/message1.PNG" width = "200"/>&emsp;
-   <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/message2.PNG" width = "200"/>&emsp;
-   <img src="https://github.com/HeXavi8/Bugu-Sport/blob/main/images/message_detail.PNG" width = "200"/>&emsp;
+   <img src="../images/my.PNG" width = "200"/>&emsp;
+   <img src="../images/my_main.PNG" width = "200"/>&emsp;
+   <img src="../images/message1.PNG" width = "200"/>&emsp;
+   <img src="../images/message2.PNG" width = "200"/>&emsp;
+   <img src="../images/message_detail.PNG" width = "200"/>&emsp;
    
 ## 未来期望 <a name = "未来期望"></a>
    * 希望可以和更多学校体育部门协会合作，打造一个氛围更好的校园体育社区，同学们提供更多体验更好的服务。
