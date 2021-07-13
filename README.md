@@ -1,3 +1,4 @@
+### English | [中文](./README_CHINESE.md) 
 # <img src='./images/title1.png' height='60'/></br>
 
 Bugu Sport (不咕约球) is a Wechat Mini Program on the subject of campus sports whose users groups mainly focus on students, including college students, primary and secondary school students.
@@ -22,13 +23,13 @@ Bugu Sport is based on Wechat platform. If you would like to experience this sof
 
 ## Documentations <a name="Documentations"></a>
 
-- [English Introduction](https://github.com/HeXavi8/Bugu-Sport/tree/main/English_introduction)
-- [中文介绍](https://github.com/HeXavi8/Bugu-Sport/tree/main/中文介绍)
+- [English Introduction](./English_Introduction)
+- [中文介绍](./中文介绍)
 
 ## Examples <a name="Examples"></a>
 
-- [chatroom](https://github.com/HeXavi8/Bugu-Sport/tree/main/examples/chatroom)
-- [grade](https://github.com/HeXavi8/Bugu-Sport/tree/main/examples/grade)
+- [chatroom](./examples/chatroom)
+- [grade](./examples/grade)
 
 Our examples are kept updating...
 

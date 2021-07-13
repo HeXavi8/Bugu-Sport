@@ -1,0 +1,54 @@
+### [English](./README.md) | 中文
+
+# <img src='./images/title1.png' height='60'/></br>
+
+不咕约球是一个以校园体育为主题的微信小程序，用户群体以学生为主，包括大学生、中小学生。
+
+## Table of Contents
+* [海报](#Poster)
+* [使用](#Usage)
+* [文档](#Documentations)
+* [例子](#Examples)
+* [设计](#Design)
+* [项目成员](#Project_Members)
+* [License](#License)
+
+## 海报 <a name="Poster"></a>
+
+<img src="./images/intro2.jpg" width = "300"  />&emsp; <img src="./images/intro1.jpg" width = "300"  />
+
+## 使用 <a name="Usage"></a>
+
+不咕约球是基于微信平台的小程序。如果您想体验这个软件，请下载微信并扫描二维码。
+
+<img src="./QRcode.JPG" width = "150" height = "150" />
+
+## 文档 <a name="Documentations"></a>
+- [中文介绍](./中文介绍)
+
+## 例子 <a name="Examples"></a>
+
+- [聊天室](./examples/chatroom)
+- [评分](./examples/grade)
+
+Our examples are kept updating...
+
+## 设计 <a name="Design"></a>
+
+布谷体育的Logo和用户界面是由 [Abbey Yang](https://github.com/AbbeyYang) 设计的。  
+
+<img src="./images/title2.png" height = "60"  /> <img src="./images/title4.png" height = "60"/>
+
+
+## 项目成员 <a name="Project_Members"></a>
+
+- [Xavi](https://github.com/HeXavi8) - **Xavi He** &lt; 825308876@qq.com&gt; (he/him)
+- [kapuskasing](https://github.com/kapuskasing) - **Kapuskasing Su** &lt; 1243038585@qq.com&gt; (he/him)
+- [LI-SUJU](https://github.com/LI-SUJU) - **LI-SUJU** &lt; lisuju@outlook.com&gt; &lt; risokyo@foxmail.com&gt; (he/him)
+- [AbbeyYang](https://github.com/AbbeyYang) - **AbbeyYang** &lt; 745482092@qq.com&gt; (she/her)
+
+如果您有任何建议或者想与我们合作，请随时与我们联系。 </br>
+
+## License <a name="License"></a>
+
+[MIT](./LICENSE)
