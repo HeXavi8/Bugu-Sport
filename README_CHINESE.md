@@ -35,7 +35,7 @@ Our examples are kept updating...
 
 ## 设计 <a name="Design"></a>
 
-布谷体育的Logo和用户界面是由 [Abbey Yang](https://github.com/AbbeyYang) 设计的。  
+不咕约球的Logo和用户界面是由 [Abbey Yang](https://github.com/AbbeyYang) 设计的。  
 
 <img src="./images/title2.png" height = "60"  /> <img src="./images/title4.png" height = "60"/>
 
