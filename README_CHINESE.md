@@ -1,4 +1,4 @@
-### [English]([./README.md](https://github.com/HeXavi8/Bugu-Sport)) | 中文
+### [English](https://github.com/HeXavi8/Bugu-Sport) | 中文
 
 # <img src='./images/title1.png' height='60'/></br>
 
