@@ -23,7 +23,7 @@ Bugu Sport is based on Wechat platform. If you would like to experience this sof
 
 ## Documentations <a name="Documentations"></a>
 
-- [English Introduction](./English_Introduction)
+- [English Introduction](./English_introduction)
 - [中文介绍](./中文介绍)
 
 ## Examples <a name="Examples"></a>
