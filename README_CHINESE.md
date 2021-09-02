@@ -2,7 +2,7 @@
 
 # <img src='./images/title1.png' height='60'/></br>
 
-不咕约球是一个以校园体育为主题的微信小程序，用户群体以学生为主，包括大学生、中小学生。
+不咕约球是一个以校园体育为主题的微信小程序，用户以学生群体为主，包括大学生、中小学生。
 
 ## Table of Contents
 * [海报](#Poster)
@@ -31,7 +31,7 @@
 - [聊天室](./examples/chatroom)
 - [评分](./examples/grade)
 
-Our examples are kept updating...
+我们会持续发布部分项目demo...
 
 ## 设计 <a name="Design"></a>
 
