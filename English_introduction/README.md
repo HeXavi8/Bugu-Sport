@@ -1,6 +1,16 @@
 # Bugu-Sport
-[TOC]
-  
+- [Bugu-Sport](#bugu-sport)
+  - [Project Overview](#project-overview)
+  - [Development Purpose](#development-purpose)
+  - [Platform Support](#platform-support)
+    - [Match----Invitations sending, Games discussion, Inter-schools communication](#match----invitations-sending-games-discussion-inter-schools-communication)
+    - [Street Game----Search for pitches, Find partners, Teachers and students allowed](#street-game----search-for-pitches-find-partners-teachers-and-students-allowed)
+    - [Team----Find teams, Join a team, Manage teams](#team----find-teams-join-a-team-manage-teams)
+    - [Authentication----Events authentication, Team authentication, Personal authentication](#authentication----events-authentication-team-authentication-personal-authentication)
+    - [Events----Find events,  Join events,  Release information](#events----find-events--join-events--release-information)
+    - [Personal----Private messages, Verify invitations, Personal page](#personal----private-messages-verify-invitations-personal-page)
+  - [Expectations](#expectations)
+  - [Meet the Developer](#meet-the-developer)
 ## Project Overview
    Bugu-Sports is a WeChat mini program on the subject of campus sports whose users groups mainly focus on students, including college students, primary and secondary school students.</br>
 
