@@ -19,7 +19,7 @@
 ## Development Purpose
    * To provide niche sports fans with a platform to find the same fans.
    * To increase sports communication channels between schools. We provide more opportunities for students from different schools and campuses to communicate directly to expand their sports social circles and media of exchanges and cooperation.  
-   * To organize annual inter-campus sports competitions and create “sports cards” for different schools. (With references to the annual Oxford-Cambridge Boat Race and the annual Harvard-Yale Football Game)
+   * To organize annual inter-campus sports competitions and create “sports festivals” for different schools. (With references to the annual Oxford-Cambridge Boat Race and the annual Harvard-Yale Football Game)
    * To improve the atmosphere and influence of campus sports activities. We explore the formation and connotation of campus sports culture so that students can experience a better sports life on campus.
    * To enhance the professionalism of campus sports. We try to bring professional resources into the campuses and explore the possibility of expanding the range of selection for professional sports. (With references to the development of campus basketball in the U.S. and campus football in Japan.)     
    * To explore the commercial value of campus sports. We learn from the experience of established student sports leagues like the NCAA.
