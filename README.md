@@ -19,7 +19,7 @@ Official website: www.bugusport.com
 <img src="./images/intro2.jpg" width = "300"  />&emsp; <img src="./images/intro1.jpg" width = "300"  />
 ## Usage <a name="Usage"></a>
 
-Bugu Sport is based on Wechat platform. If you would like to experience this software, please download WeChat and scan the QR code.
+Bugu Sport is based on the Wechat platform. If you would like to experience this software, please download WeChat and scan the QR code.
 
 <img src="./QRcode.JPG" width = "150" height = "150" />
 
