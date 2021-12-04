@@ -49,7 +49,7 @@ The Bugu Sport logo and user interface were designed by [Abbey Yang](https://git
 - [LI-SUJU](https://github.com/LI-SUJU) - **LI-SUJU** &lt; lisuju@outlook.com&gt; &lt; risokyo@foxmail.com&gt; (he/him)
 - [AbbeyYang](https://github.com/AbbeyYang) - **AbbeyYang** &lt; 745482092@qq.com&gt; (she/her)
 
-If you have any suggestions or would like to cooperate with us, please feel free to contact us. </br>
+If you have any suggestion or would like to cooperate with us, please feel free to contact us. </br>
 
 ## License <a name="License"></a>
 
