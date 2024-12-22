@@ -44,11 +44,14 @@ The Bugu Sport logo and user interface were designed by [Abbey Yang](https://git
 
 ## Project Members <a name="Project_Members"></a>
 
-- [Xavi](https://github.com/HeXavi8) - **Xavi He** &lt;825308876@qq.com&gt; (he/him)
-- [kapuskasing](https://github.com/kapuskasing) - **Kapuskasing Su** &lt; kunmingsu@outlook.com&gt; (he/him)
-- [LI-SUJU](https://github.com/LI-SUJU) - **LI SUJU** &lt; lisuju@outlook.com&gt; &lt; risokyo@foxmail.com&gt; (he/him)
-- [AbbeyYang](https://github.com/AbbeyYang) - **Abbey Yang** &lt; 745482092@qq.com&gt; (she/her)
-- [RuidaZeng](https://github.com/RuidaZeng) - **Ruida Zeng** &lt; ruida_zeng@alumni.brown.edu&gt; (he/him)
+| **GitHub** | **Name** | **Email** | **Pronouns** |
+|------------|----------|-----------|--------------|
+| [Xavi](https://github.com/HeXavi8) | **Xavi He** | 825308876&#64;qq.com | ![he/him](https://img.shields.io/badge/Pronouns-he/him-blue) |
+| [kapuskasing](https://github.com/kapuskasing) | **Kapuskasing Su** | kunmingsu&#64;outlook.com | ![he/him](https://img.shields.io/badge/Pronouns-he/him-blue) |
+| [LI-SUJU](https://github.com/LI-SUJU) | **LI SUJU** | lisuju&#64;outlook.com, risokyo&#64;foxmail.com | ![he/him](https://img.shields.io/badge/Pronouns-he/him-blue) |
+| [AbbeyYang](https://github.com/AbbeyYang) | **Abbey Yang** | 745482092&#64;qq.com | ![she/her](https://img.shields.io/badge/Pronouns-she/her-pink) |
+| [RuidaZeng](https://github.com/RuidaZeng) | **Ruida Zeng** | ruida_zeng&#64;alumni.brown.edu | ![he/him](https://img.shields.io/badge/Pronouns-he/him-blue) |
+
 
 If you have any suggestion or would like to cooperate with us, please feel free to contact us. </br>
 
