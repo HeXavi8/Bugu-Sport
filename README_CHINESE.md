@@ -48,7 +48,7 @@
 | [Xavi](https://github.com/HeXavi8) | **Xavi He** | 825308876 [at] qq [dot] com | he/him |
 | [kapuskasing](https://github.com/kapuskasing) | **Kapuskasing Su** | kunmingsu [at] outlook [dot] com | he/him |
 | [LI-SUJU](https://github.com/LI-SUJU) | **LI SUJU** | lisuju [at] outlook [dot] com, risokyo [at] foxmail [dot] com | he/him |
-| [AbbeyYang](https://github.com/AbbeyYang) | **Abbey Yang** | 745482092 [at] qq [dot] com | he/him |
+| [AbbeyYang](https://github.com/AbbeyYang) | **Abbey Yang** | 745482092 [at] qq [dot] com | she/her |
 | [RuidaZeng](https://github.com/RuidaZeng) | **Ruida Zeng** | ruida_zeng [at] alumni [dot] brown [dot] edu | he/him |
 
 
