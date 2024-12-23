@@ -44,10 +44,13 @@ The Bugu Sport logo and user interface were designed by [Abbey Yang](https://git
 
 ## Project Members <a name="Project_Members"></a>
 
-- [Xavi](https://github.com/HeXavi8) - **Xavi He** &lt;825308876@qq.com&gt; (he/him)
-- [kapuskasing](https://github.com/kapuskasing) - **Kapuskasing Su** &lt; kunmingsu@outlook.com&gt; (he/him)
-- [LI-SUJU](https://github.com/LI-SUJU) - **LI-SUJU** &lt; lisuju@outlook.com&gt; &lt; risokyo@foxmail.com&gt; (he/him)
-- [AbbeyYang](https://github.com/AbbeyYang) - **AbbeyYang** &lt; 745482092@qq.com&gt; (she/her)
+| **GitHub** | **Name** | **Email** | **Pronouns** |
+|------------|----------|-----------|--------------|
+| [Xavi](https://github.com/HeXavi8) | **Xavi He** | 825308876 [at] qq [dot] com | he/him |
+| [kapuskasing](https://github.com/kapuskasing) | **Kapuskasing Su** | kunmingsu [at] outlook [dot] com | he/him |
+| [LI-SUJU](https://github.com/LI-SUJU) | **LI SUJU** | lisuju [at] outlook [dot] com, risokyo [at] foxmail [dot] com | he/him |
+| [AbbeyYang](https://github.com/AbbeyYang) | **Abbey Yang** | 745482092 [at] qq [dot] com | she/her |
+| [RuidaZeng](https://github.com/RuidaZeng) | **Ruida Zeng** | ruida_zeng [at] alumni [dot] brown [dot] edu | he/him |
 
 If you have any suggestion or would like to cooperate with us, please feel free to contact us. </br>
 
