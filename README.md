@@ -46,11 +46,11 @@ The Bugu Sport logo and user interface were designed by [Abbey Yang](https://git
 
 | **GitHub** | **Name** | **Email** | **Pronouns** |
 |------------|----------|-----------|--------------|
-| [Xavi](https://github.com/HeXavi8) | **Xavi He** | 825308876 [at] qq [dot] com | he/him |
-| [kapuskasing](https://github.com/kapuskasing) | **Kapuskasing Su** | kunmingsu [at] outlook [dot] com | he/him |
-| [LI-SUJU](https://github.com/LI-SUJU) | **LI SUJU** | lisuju [at] outlook [dot] com, risokyo [at] foxmail [dot] com | he/him |
-| [AbbeyYang](https://github.com/AbbeyYang) | **Abbey Yang** | 745482092 [at] qq [dot] com | she/her |
-| [RuidaZeng](https://github.com/RuidaZeng) | **Ruida Zeng** | ruida_zeng [at] alumni [dot] brown [dot] edu | he/him |
+| [Xavi](https://github.com/HeXavi8) | **Xavi He** | [825308876@qq.com](mailto:825308876@qq.com) | he/him |
+| [kapuskasing](https://github.com/kapuskasing) | **Kapuskasing Su** | [kunmingsu@outlook.com](mailto:kunmingsu@outlook.com) | he/him |
+| [LI-SUJU](https://github.com/LI-SUJU) | **LI SUJU** | [lisuju@outlook.com](mailto:lisuju@outlook.com), [risokyo@foxmail.com](mailto:risokyo@foxmail.com) | he/him |
+| [AbbeyYang](https://github.com/AbbeyYang) | **Abbey Yang** | [745482092@qq.com](mailto:745482092@qq.com) | she/her |
+| [RuidaZeng](https://github.com/RuidaZeng) | **Ruida Zeng** | [ruida_zeng@alumni.brown.edu](mailto:ruida_zeng@alumni.brown.edu) | he/him |
 
 If you have any suggestion or would like to cooperate with us, please feel free to contact us. </br>
 
